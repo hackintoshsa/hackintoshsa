@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **AWS Certification , Google Cloud Certification, Azure Certification , IBM Cloud Certification**
 
-- 👨‍💻 All of my projects are available at [ndumiso.mybluemix.net](ndumiso.mybluemix.net)
+- 👨‍💻 All of my projects are available at [Personal Website](https://personalwebsite-68cdc.web.app/)
 
 - 💬 Ask me about **Angular, Java, Ionic, Android**
 
