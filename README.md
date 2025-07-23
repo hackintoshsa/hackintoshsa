@@ -13,7 +13,7 @@
  🔭 I’m currently working on 
 
 - [News Hub - South Africa](https://play.google.com/store/apps/details?id=com.ndumiso.novicehub&hl=en_SG&gl=US)
-- [Bi-Skop  (Movie / Series Streaming Platform) ](https://biskop-streaming.web.app/home)
+- [Bi-Skop  (Movie / Series Streaming Platform) ](https://biskop.fun)
 
 
 - 🌱 I’m currently learning **AWS Certification , Google Cloud Certification, Azure Certification , IBM Cloud Certification**
